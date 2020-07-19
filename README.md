@@ -1,1 +1,2 @@
-# ComputationTheory_HW
+## ComputationTheory_HW
+### concept: context-free grammer(CFG)/ parser
